@@ -9,7 +9,7 @@
 #include	<ctype.h>
 
 char hdc[]="O*********ABCDEF";
-char defaultdic[]="/home/gar/hdw/EIJIRO-SAMPLE-1442.TXT";
+char defaultdic[]="/home/user/dic/EIJIRO-SAMPLE-1442.TXT";
 
 int ffgetc(FILE *fp) {
 	int c;
